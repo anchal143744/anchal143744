@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Anchal Sharma — AI Product Builder</title>
+  <desc id="description">A black, cream and orange identity banner with an AS monogram and a focus on ideas, workflows and digital products.</desc>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#F4F1EA" stroke-opacity="0.06"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6A00" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#FF6A00" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#111110"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" fill="url(#grid)" stroke="#F4F1EA" stroke-opacity="0.12"/>
+  <path d="M920 0H1176Q1200 0 1200 24V300H1070Z" fill="url(#glow)"/>
+  <rect x="64" y="65" width="170" height="170" rx="24" fill="#F4F1EA"/>
+  <rect x="76" y="77" width="146" height="146" rx="16" fill="none" stroke="#111110" stroke-opacity="0.12"/>
+  <text x="149" y="174" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="-6" fill="#111110">AS</text>
+  <path d="M110 194H190" stroke="#FF6A00" stroke-width="5" stroke-linecap="round"/>
+  <text x="280" y="106" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#FF8A37">PRODUCT THINKING. PRACTICAL PURPOSE.</text>
+  <text x="276" y="166" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" letter-spacing="-2" fill="#F4F1EA">ANCHAL SHARMA</text>
+  <text x="280" y="204" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#D0CCC4">AI Product Builder</text>
+  <path d="M280 231H1106" stroke="#F4F1EA" stroke-opacity="0.16"/>
+  <text x="280" y="257" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" letter-spacing="1" fill="#B9B5AD">IDEAS</text>
+  <path d="M344 252H376M370 247L376 252L370 257" fill="none" stroke="#FF8A37" stroke-width="1.5"/>
+  <text x="394" y="257" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" letter-spacing="1" fill="#B9B5AD">WORKFLOWS</text>
+  <path d="M509 252H541M535 247L541 252L535 257" fill="none" stroke="#FF8A37" stroke-width="1.5"/>
+  <text x="559" y="257" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" letter-spacing="1" fill="#B9B5AD">DIGITAL PRODUCTS</text>
+  <circle cx="1104" cy="90" r="5" fill="#FF6A00"/>
+</svg>
